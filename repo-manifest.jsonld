@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pvlib/pvlib-python/commit/49530b4dc49bdf401e198ba99218802b2f85df44",
       "git:hexsha": "49530b4dc49bdf401e198ba99218802b2f85df44",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T17:39:58.185828+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pvlib/pvlib-python/commit/8c267c8dccc35214d49e2c7184a3b05b4760c42e",
