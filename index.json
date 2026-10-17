@@ -1,0 +1,11 @@
+{
+  "org": "pvlib",
+  "repo": "pvlib-python",
+  "versions": [
+    {
+      "commit": "49530b4dc49bdf401e198ba99218802b2f85df44",
+      "tag": "",
+      "parsed_at": "2026-10-17T17:39:58.186721+00:00"
+    }
+  ]
+}
